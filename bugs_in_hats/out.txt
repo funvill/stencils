@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C4CE-CC3D
+
+ Directory of C:\Users\funvill\Documents\git\stencils\bugs_in_hats
+
+2020-07-13  11:37 AM            12,488 AmericanCockroach.png
+2020-07-13  11:37 AM            13,474 Blowfly.png
+2020-07-13  11:38 AM            18,684 frog.png
+2020-07-13  11:39 AM            11,666 JumpingSpider.png
+2020-07-13  11:39 AM            15,944 PreyingMantis.png
+2020-07-13  11:39 AM            15,565 YellowJacket.png
+               6 File(s)         87,821 bytes
+               0 Dir(s)  574,456,442,880 bytes free
